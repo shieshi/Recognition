@@ -1,3 +1,6 @@
 https://github.com/oarriaga/face_classification
 https://modeldepot.io/harshsikka/gender-classification
 https://github.com/yu4u/age-gender-estimation
+https://modeldepot.io/harshsikka/emotion-classification
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/camera.html
+https://medium.com/@marklabinski/installing-tensorflow-object-detection-api-on-windows-10-7a4eb83e1e7b
